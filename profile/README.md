@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="arcade-labs-logo-dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="arcade-labs-logo-light.png">
+        <source media="(prefers-color-scheme: dark)" srcset="arcade-labs-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="arcade-labs-light.png">
         <img alt="Arcade Labs" src="arcade-labs-logo-light.png" width="480">
     </picture>
 </p>
