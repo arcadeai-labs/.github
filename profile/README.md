@@ -1,4 +1,10 @@
-# Arcade Labs
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="arcade-labs-logo-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="arcade-labs-logo-light.png">
+        <img alt="Arcade Labs" src="arcade-labs-logo-light.png" width="480">
+    </picture>
+</p>
 
 > Experiments, prototypes, and research from the team
 > at [Arcade](https://arcade.dev).
